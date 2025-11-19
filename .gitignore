@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# PHP
+*.log
+
+# Database credentials (if you ever separate them)
+# config.php
+
+# Temporary files
+*.tmp
+*.temp
+
+# XAMPP specific
+error_log
+php_error_log
+
